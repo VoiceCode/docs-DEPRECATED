@@ -46,3 +46,5 @@
   - Menu Item Aliases
   - Preset Window Positions
   - System Preferences
+- Integrations
+  - Alfred Workflows
