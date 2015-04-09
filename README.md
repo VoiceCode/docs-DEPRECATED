@@ -1,2 +1,3 @@
-# docs
-Guides and documentation for VoiceCode
+# VoiceCode.io - Docs and Guides
+
+- Initial setup
