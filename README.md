@@ -17,12 +17,10 @@
 - Configuring Dragon Dictate
   - Autoformatting Settings
   - Import Phonetic Alphabet
-- Interface Guide
-  - The Commands Page
-  - The Interpreter Page
-  - The Utility Page
-  - The Vocab Page
-  - The Dragon Synchronization Page
+- Installing The Default Commands
+- Synchronizing Dragon Dictate
+- Training Vocabulary
+- Troubleshooting
 - Adding Your Own Commands
   - Where To Put Them
   - Command API
