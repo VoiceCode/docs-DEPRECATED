@@ -7,4 +7,4 @@ This is [the documentation](https://github.com/VoiceCode/docs/wiki) for the orig
 
 
 ## VoiceCode 1.0 (still in pre-release)
-The new [documentation is here](https://voicecode.gitbooks.io/voicecode/content)
+The new documentation is here [voicecode.io/docs](http://voicecode.io/docs)
